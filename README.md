@@ -9,6 +9,6 @@ Website & mobile app for train reservations
 - Ability to make a reservation
 
 ## Technologies Used
-- [Frontend](https://github.com/ManuPuyuelo/trainlife-backend) : HTML, CSS, Javascript
+- [Frontend](https://github.com/ManuPuyuelo/trainlife-frontend) : HTML, CSS, Javascript
 - Backend & Database : Node.js, Express, MongoDB
 
